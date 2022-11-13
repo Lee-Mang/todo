@@ -1,7 +1,7 @@
 # **To-Do Application**
 ### How to Run the example
 
-1. Get the codebase in your development machine by executing `git clone https://github.com/h4xr/todo todo`
+1. Get the codebase in your development machine by executing `git clone https://github.com/Lee-Mang/todo
 2. Now, get into the todo directory that was created due to the above step by executing `cd <path_to_directory>`
 3. The next step is to setup a virtual environment for the project since it will help us in keeping our dependencies isolated from the rest of the system. To create virtual environment, we can execute the following command `virtualenv venv`. This will create a virtual environment named *venv* inside the project folder.
 4. The next step is to activate the virtual environment. For this, execute, `source venv/bin/activate`
